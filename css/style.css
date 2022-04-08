@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@1,500&family=Ingrid+Darling&display=swap');
+h1 {
+    color: blue;
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 30px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+label {
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input {
+    border: 1px solid;
+    border-radius: 6px;
+    text-align: center;
+}
+
+#loginbtn {
+    background: linear-gradient(rgb(162, 0, 255), black);
+    width: 15%;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 3px solid;
+}
